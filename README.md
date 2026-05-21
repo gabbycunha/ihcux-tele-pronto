@@ -7,14 +7,14 @@ Projeto desenvolvido para a disciplina de **Interação Humano Computador e UX**
 O aplicativo tem como objetivo ajudar no atendimento de casos leves por meio de triagem, fila virtual, consulta por vídeo, receitas digitais e lembretes de medicação, conforme solicitado na atividade. 0
 
 ## Nome dos alunos
-Gabrielly Cunha
-Mariana Duarte
-Thais Augusta
-Arthur Cantarutti
-Bernardo Rocha
-Guilherme Augusto
+- Gabrielly Cunha
+- Mariana Duarte
+- Thais Augusta
+- Arthur Cantarutti
+- Bernardo Rocha
+- Guilherme Augusto
 
--
+
 
 ## Sobre o projeto
 
